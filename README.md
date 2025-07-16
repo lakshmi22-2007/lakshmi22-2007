@@ -1,4 +1,9 @@
-<h1 align="center">Hi there, I'm Lakshmi Narayanan 👋</h1>
+<h1>
+  <img height="100%" width="100%"
+    src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&color=FFFF00&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+B+LAKSHMI+NARAYANAN👑;"
+    alt="Typing SVG"/>
+</h1>
+
 
 <p align="center">
   A passionate student and tech explorer from India. Always curious about how things work behind the scenes in technology, and constantly learning to build innovative solutions!
