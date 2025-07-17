@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Web Development, Python & AI/ML**
-- 👩‍💻 Interested in **AI Projects, IoT, Blockchain, and Smart Agriculture**
+- 👩‍💻 Interested in **AI Projects,Full stack, IoT, Blockchain, and Smart Agriculture**
 - 🎯 Currently working on improving my **project building and presentation skills**
 - 💡 Love turning ideas into real, working solutions
 - ✨ Open to collaboration on tech projects and hackathons
