@@ -73,7 +73,7 @@ and AI-integrated systems. I write clean code, ship fast, and engineer solutions
 
 </div>
 <div align="center">
-  <img src="Screenshot 2026-06-03 114617" height="100px" alt="AZ-204"/>
+  <img src="Screenshot 2026-06-03 114617.png" height="100px" alt="AZ-204"/>
   &nbsp;&nbsp;
   <img src="Screenshot 2026-06-03 114608" height="100px" alt="AZ-900"/>
   &nbsp;&nbsp;
