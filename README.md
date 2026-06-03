@@ -22,49 +22,7 @@ Software Development Engineer with a knack for building scalable backends, full-
 and AI-integrated systems. I write clean code, ship fast, and engineer solutions that last.
 <br/>
 
-## Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<br/>
-
-<img src="/Assets/Nexbit Logo.svg" alt="G8 Mock Test Platform" width="100%" style="border-radius:8px"/>
-
-### G8 Mock Test Platform
-**Online Examination System for GATE Prep**
-
-`React` `Node.js` `PostgreSQL` `Express.js`
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-<img src="/Assets/CHAR.A.I.png" alt="CHAR.A.I" width="100%" style="border-radius:8px"/>
-
-### CHAR.A.I
-**RAG-powered WhatsApp Academic Assistant**
-
-`n8n` `GCP` `Pinecone` `OpenAI` `WhatsApp Cloud API`
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-<img src="/Assets/dd.png" alt="SOLIDWORKS Classifier" width="100%" style="border-radius:8px"/>
-
-### SOLIDWORKS Classifier
-**Industrial Component Recognition System**
-
-`YOLOv5` `R-CNN` `OpenCV` `Python`
-
-<br/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -119,9 +77,6 @@ and AI-integrated systems. I write clean code, ship fast, and engineer solutions
   &nbsp;&nbsp;
   <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="100px" alt="AZ-900"/>
   &nbsp;&nbsp;
-  <img src="/Assets/AWSEBadge.png" height="100px" alt="AWS"/>
-  &nbsp;&nbsp;
-  <img src="/Assets/AI_Fundamentals cred.png" height="100px" alt="AI Fundamentals"/>
 </div>
 
 <br/>
