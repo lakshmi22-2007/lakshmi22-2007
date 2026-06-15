@@ -16,8 +16,6 @@
 
 ## About Me
 
-## About Me
-
 Software Development Engineer with a knack for building scalable backends, full-stack apps,
 and AI-integrated systems. I write clean code, ship fast, and engineer solutions that last.
 <br/>
@@ -65,6 +63,7 @@ and AI-integrated systems. I write clean code, ship fast, and engineer solutions
 
 | Certification | Issuer |
 |--------------|--------|
+| ![Azure](https://img.shields.io/badge/-Designing_and_Implementing_Microsoft_DevOps_Solutions_(AZ‑400)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft |
 | ![Azure](https://img.shields.io/badge/-Azure_Developer_Associate_(AZ‑204)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft |
 | ![Azure](https://img.shields.io/badge/-Azure_Fundamentals_(AZ‑900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft |
 | ![Anthropic](https://img.shields.io/badge/-Claude_Certified_Architect-CC785C?style=flat-square&logo=anthropic&logoColor=white) | Anthropic |
